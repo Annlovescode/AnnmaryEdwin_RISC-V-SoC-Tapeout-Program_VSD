@@ -34,14 +34,14 @@ $ sudo make install
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
-![Alt Text](Images/iverilog_proof.png)
-![Alt Text](Images/iverilog_version_p1.png)
-![Alt Text](Images/iverilog_version_p2.png)
+![Alt Text](images/iverilog_proof.png)
+![Alt Text](images/iverilog_version_p1.png)
+![Alt Text](images/iverilog_version_p2.png)
 
 #### <ins>**gtkwave**</ins>
 ```bash
 $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
-![Alt Text](Images/gtk_proof.png)
+![Alt Text](images/gtk_proof.png)
 
