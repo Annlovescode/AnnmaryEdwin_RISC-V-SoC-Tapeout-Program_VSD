@@ -1,5 +1,5 @@
 
-# RISC-V  SoC Tapeout Program VSD : Week1
+# RISC-V  SoC Tapeout Program VSD : Week0
 
 ## Tools Installation
 
