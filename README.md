@@ -5,7 +5,7 @@ Each entry consolidates tasks, outcomes, and technical insights, enabling a tran
 
 ---
 
-## 📅 Week 1 — Foundations of RISC-V SoC Design
+## 📅 Week 0 — Foundations of RISC-V SoC Design
 
 ### ✅ Tasks & Status
 
